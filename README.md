@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my first opportunity to work in **web development.**
 
-- 🌱 I continue to learn and develop my skills in React.js,Vue.js,Node.js and etc. **React.js,Vue.js,Node.js and etc.**
+- 🌱 I continue to learn and develop my skills in **React.js, Vue.js, Node.js and etc.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
