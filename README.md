@@ -1,12 +1,6 @@
 <h1 align="center">Shalom 👋, I'm Eylon</h1>
 <h3 align="center">Frontend / Full stack developer from Israel</h3>
 
-- 🔭 I’m currently looking for my first opportunity to work in **web development.**
-
-- 🌱 I continue to learn and develop my skills in **React.js, Vue.js, Node.js and etc.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
-
 - 📫 You can reach me in **eylonfrish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
